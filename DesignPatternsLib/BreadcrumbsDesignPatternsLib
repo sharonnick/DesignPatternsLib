@@ -1,0 +1,17 @@
+DesignPatternsLib/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   ├── __init__.py
+│   └── design_patterns_lib.py
+├── tests/
+│   ├── __init__.py
+│   └── test_design_patterns_lib.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
